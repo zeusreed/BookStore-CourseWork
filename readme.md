@@ -63,6 +63,8 @@
         ```csharp
         Data Source=ВАШ_СЕРВЕР;Initial Catalog=BookStoreDB;Integrated Security=True
         ```
+        pip install -r requirements.txt
+
     *   Нажмите **Start**.
 
 ---
